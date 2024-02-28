@@ -1,7 +1,5 @@
 # Spring Security com JWT: Autenticação e Autorização
 
----
-
 ## Login
 http://localhost:8080/security/login
 
