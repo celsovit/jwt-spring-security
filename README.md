@@ -67,8 +67,6 @@ http://localhost:8080/api/v1/consume
   Authorization: Bearer <refreshToken>
 ```
 
----
-
 ## Saiba mais:
 
 - [JWT: Usuários e Grupos](https://www.javadevjournal.com/spring-security/spring-security-roles-and-permissions/)
